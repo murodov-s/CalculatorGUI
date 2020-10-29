@@ -271,6 +271,7 @@
                                                 <connections>
                                                     <action selector="buttons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bbd-OB-fWK"/>
                                                     <action selector="number:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dg3-9z-mn8"/>
+                                                    <action selector="numbers:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RG0-f8-Hrx"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NJH-eY-9mI">
